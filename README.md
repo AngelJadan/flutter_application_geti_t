@@ -1,6 +1,6 @@
 # flutter_application_geti_t
 
-A new Flutter project.
+In this project practice the get_it of Flutter.
 
 ## Getting Started
 
